@@ -1,6 +1,5 @@
-# Metalware Base Repo
-This repository provides the necessary configuration to deploy a cluster of nodes with a standard CentOS 7 image.
+# HPC Cluster Plugins Repo
 
-The branch `flightcenter` provides a pre-configured repository for deploying an Alces Flight Center cluster.
+This repository provides plugins for expanding the functionality of a cluster.
 
-Tested with metalware 2018.2.0.
+Tested with underware 0.2.0.
