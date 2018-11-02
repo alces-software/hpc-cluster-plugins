@@ -1,7 +1,7 @@
 priority: 20
 files:
   scripts:
-    - /var/lib/metalware/plugins/flightcenter/files/flightcenter.sh
+    - /var/lib/underware/plugins/flightcenter/files/flightcenter.sh
 flightcenter_archivedir: '<%= node.answer.flightcenter_archivedir %>'
 flightcenter_sharedscratchdir: '<%= node.answer.flightcenter_sharedscratchdir %>'
 flightcenter_localscratchdir: '<%= node.answer.flightcenter_localscratchdir %>'

@@ -1,7 +1,7 @@
 priority: 20
 files:
   setup:
-    - /var/lib/metalware/plugins/flightdirect/files/flightdirect.sh
+    - /var/lib/underware/plugins/flightdirect/files/flightdirect.sh
 flightdirect_isserver: <%= node.answer.flightdirect_isserver %>
 flightdirect_isclient: <%= node.answer.flightdirect_isclient %>
 flightdirect_iscache: <%= node.answer.flightdirect_iscache %>
